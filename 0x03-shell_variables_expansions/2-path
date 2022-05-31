@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $CDPATH/action
+mkdir $PATH/action
+echo $PATH
